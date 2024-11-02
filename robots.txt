@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exiyeiri.github.io/NHC/sitemap_index.txt
+Sitemap: https://exiyeiri.github.io/RKm/sitemap_index.txt
+Sitemap: https://exiyeiri.github.io/Udq/sitemap_index.txt
+Sitemap: https://exiyeiri.github.io/idY/sitemap_index.txt
